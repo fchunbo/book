@@ -1,0 +1,152 @@
+2017-06-18 20:46:22,488 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-06-18 20:46:27,366 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.pom
+2017-06-18 20:46:27,577 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.pom
+2017-06-18 20:46:28,221 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.jar
+2017-06-18 20:47:35,734 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.7/junit-4.7.jar
+2017-06-18 20:47:36,745 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/main/java
+2017-06-18 20:47:36,746 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/test/java
+2017-06-18 20:47:37,053 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 76 sec
+2017-06-18 20:47:38,470 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 20:47:38,472 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-06-18 20:47:38,476 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 20:47:38,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-06-18 20:47:59,441 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 20:47:59,443 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-06-18 20:47:59,445 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 20:47:59,446 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-06-18 21:43:10,623 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-06-18 21:43:10,923 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 21:43:10,925 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-06-18 21:43:10,928 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-18 21:43:10,930 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 21:53:46,989 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 21:53:46,998 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 21:53:47,002 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 21:53:47,004 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:03:15,310 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:03:15,311 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:03:15,316 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:03:15,318 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:03:42,536 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:03:42,540 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:03:42,542 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:03:42,543 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:05:50,583 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:05:50,584 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:05:50,586 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:05:50,587 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:11:28,620 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:11:28,932 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:11:28,939 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:11:28,942 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:11:28,944 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:13:28,930 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2017-07-20 22:13:30,025 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
+2017-07-20 22:13:30,466 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2017-07-20 22:13:30,959 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
+2017-07-20 22:13:31,823 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2017-07-20 22:13:32,155 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
+2017-07-20 22:13:32,491 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2017-07-20 22:13:32,891 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
+2017-07-20 22:13:33,236 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2017-07-20 22:13:33,768 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
+2017-07-20 22:13:34,104 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2017-07-20 22:13:34,438 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
+2017-07-20 22:13:34,774 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2017-07-20 22:13:35,104 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
+2017-07-20 22:13:35,494 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2017-07-20 22:13:36,704 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
+2017-07-20 22:13:37,032 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2017-07-20 22:13:37,398 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
+2017-07-20 22:13:38,125 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2017-07-20 22:13:39,722 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
+2017-07-20 22:13:39,930 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:13:40,516 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:40,517 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:13:40,521 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:40,522 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:13:41,996 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:13:42,139 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:42,141 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:13:42,143 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:42,144 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:13:44,828 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:13:45,003 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:45,004 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:13:45,008 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:13:45,009 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:14:25,150 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:14:25,352 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:14:25,354 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:14:25,357 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:14:25,358 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:14:44,695 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-20 22:14:44,980 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:14:45,129 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/main/java
+2017-07-20 22:14:45,130 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/test/java
+2017-07-20 22:14:45,375 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-20 22:14:45,673 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:14:45,674 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:14:45,679 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:14:45,680 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:15:45,397 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:15:45,580 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:15:45,581 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:15:45,583 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:15:45,584 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:28:48,170 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.jar
+2017-07-20 22:28:49,898 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.jar
+2017-07-20 22:29:05,830 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.pom
+2017-07-20 22:29:06,245 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.0.0/maven-shade-plugin-3.0.0.pom
+2017-07-20 22:29:06,836 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.9.0/maven-artifact-transfer-0.9.0.pom
+2017-07-20 22:29:07,276 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.9.0/maven-artifact-transfer-0.9.0.pom
+2017-07-20 22:29:07,689 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.0.0/maven-common-artifact-filters-3.0.0.pom
+2017-07-20 22:29:08,106 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.0.0/maven-common-artifact-filters-3.0.0.pom
+2017-07-20 22:29:08,505 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2017-07-20 22:29:08,871 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2017-07-20 22:29:09,270 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jdom/jdom/1.1.3/jdom-1.1.3.pom
+2017-07-20 22:29:10,139 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jdom/jdom/1.1.3/jdom-1.1.3.pom
+2017-07-20 22:29:10,501 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.pom
+2017-07-20 22:29:10,942 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.pom
+2017-07-20 22:29:11,289 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+2017-07-20 22:29:11,632 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+2017-07-20 22:29:11,976 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+2017-07-20 22:29:12,339 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+2017-07-20 22:29:12,688 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom
+2017-07-20 22:29:13,041 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom
+2017-07-20 22:29:13,400 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom
+2017-07-20 22:29:13,759 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom
+2017-07-20 22:29:14,128 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom
+2017-07-20 22:29:14,512 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom
+2017-07-20 22:29:14,902 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.pom
+2017-07-20 22:29:15,298 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.pom
+2017-07-20 22:29:15,713 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.9.0/maven-artifact-transfer-0.9.0.jar
+2017-07-20 22:29:18,478 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-transfer/0.9.0/maven-artifact-transfer-0.9.0.jar
+2017-07-20 22:29:18,854 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.0.0/maven-common-artifact-filters-3.0.0.jar
+2017-07-20 22:29:20,161 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.0.0/maven-common-artifact-filters-3.0.0.jar
+2017-07-20 22:29:20,553 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jdom/jdom/1.1.3/jdom-1.1.3.jar
+2017-07-20 22:29:23,321 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jdom/jdom/1.1.3/jdom-1.1.3.jar
+2017-07-20 22:29:23,702 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.jar
+2017-07-20 22:29:24,284 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/vafer/jdependency/1.1/jdependency-1.1.jar
+2017-07-20 22:29:24,651 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar
+2017-07-20 22:29:25,204 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar
+2017-07-20 22:29:25,583 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar
+2017-07-20 22:29:26,452 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar
+2017-07-20 22:32:51,904 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:32:52,130 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:32:52,131 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:32:52,133 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:32:52,134 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:33:03,466 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-20 22:33:03,754 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juvenxu.mvnbook:hello-world:1.0-SNAPSHOT @ E:\Resource\资料\book\mavenNote\workspace\hello-world\pom.xml.
+2017-07-20 22:33:04,089 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/main/java
+2017-07-20 22:33:04,090 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hello-world/src/test/java
+2017-07-20 22:33:04,256 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-07-20 22:33:04,469 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:33:04,470 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:33:04,472 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:33:04,474 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
+2017-07-20 22:33:48,001 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:33:48,003 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\main\resources
+2017-07-20 22:33:48,005 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (utf-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-07-20 22:33:48,006 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Resource\资料\book\mavenNote\workspace\hello-world\src\test\resources
